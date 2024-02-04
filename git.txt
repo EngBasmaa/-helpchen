@@ -1,0 +1,70 @@
+We install git on a local machine in some steps:
+
+>> For Windows:
+
+1. Visit the official Git website (https://git-scm.com/) and download the Windows version of Git.
+
+2. Run the downloaded installer.
+
+3. Follow the on-screen instructions, reviewing the license agreement and choosing the installation location.
+
+4. Select the components you want to install, and choose your preferred text editor.
+
+5. Choose the default branch name and adjust other settings as desired.
+
+6. Select the option to use Git from the command line and third-party software.
+
+7. Choose the HTTPS transport backend and line ending conversions options.
+
+8. Choose your preferred terminal emulator or the default Git Bash.
+
+9. Complete the installation process and launch Git Bash.
+
+10. Verify the installation by opening the command prompt and running the command: git --version.
+
+11. That's it! Git should now be installed and ready to use on your Windows machine.
+
+
+
+>> For Linux (Ubuntu-based distributions):
+
+1. Open a terminal window by pressing "Ctrl + Alt + T" together.
+
+2. Run the following command to install Git: 
+                                              sudo apt update
+                                              sudo apt install git
+
+3. The system may prompt you to enter your password. Type your password and press Enter.
+
+4. The package manager will download and install Git along with its dependencies.
+
+5. After the installation is complete, you can verify the installation by running the following command: git --version
+
+6. if Git is installed correctly, you will see the installed version displayed in the terminal.
+
+
+
+>> For Mac:
+
+1. Here are the summarized steps to install Git on macOS:
+
+2. Visit the official Git website (https://git-scm.com/) and download the macOS version of Git.
+
+3. Open the downloaded DMG file.
+
+4. Double-click on the package file (ending in .pkg) to start the installation process.
+
+5. Follow the instructions in the installer, reviewing the license agreement and providing your username and password if required.
+
+6. Complete the installation process.
+
+7. Open the Terminal application.
+
+8. Verify the installation by running the command: git --version.
+
+9. That's it! Git should now be installed and ready to use on your Mac.
+
+
+
+Now! Git should now be successfully installed on your local machine, regardless of the operating system you are using.
+

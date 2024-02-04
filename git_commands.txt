@@ -1,0 +1,43 @@
+>> The 20 git commands and their functions:
+
+Sure! Here are 20 commonly used Git commands along with their functions:
+
+1. git init: Initializes an existing directory as a Git repositoryin the current directory.
+
+2. git clone [repository URL]: Creates a local copy of a remote repository.
+
+3. git add [file/directory]: Marks files or directories to be included in the next commit.
+
+4. git status: Shows the current state of your repository, including tracked and untracked files.
+
+5. git commit -m "[commit message]": Records changes to the repository with a descriptive commit message.
+
+6. git push: Uploads local commits to a remote repository.
+
+7. git pull: Fetches and merges changes from a remote repository to your local repository.
+
+8. git branch: Lists all local branches in the repository.
+
+9. git checkout [branch name]: Switches to a different branch.
+
+10. git fetch: Downloads objects and refs from a remote repository without merging them.
+
+11. git config --global user.name “[firstname lastname]”: Sets a name that is identifiable for credit when review version history.
+
+12. git config --global user.email “[valid-email]”: Sets an email address that will be associated with each history marker.
+
+13. mkdir [directory name]: Creates a new directory.
+
+14. rmdir [directory name]: Removes an empty directory.
+
+15. touch [file name]: Creates a new file.
+
+16. rm [file name]: Removes a file using its name.
+
+17. rm -r [directory name]: Removes a directory with its entire files.
+
+18. ls: to list the content 'all files' of the current directory.
+
+19. cd [file name]: to move to another file in the current directory.
+
+20. cd .. : To go back one step to the previous directory of the current directory. 
